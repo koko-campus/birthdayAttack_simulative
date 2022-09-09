@@ -19,8 +19,8 @@
 }
 #birthdayAttack_simulative #chartBox #chart #probabilityLine {
   fill: transparent;
-  stroke: black;
-  stroke-width: 1;
+  stroke: blue;
+  stroke-width: 0.5;
 }
 #birthdayAttack_simulative #chartBox #inputBox {
   display: flex;
