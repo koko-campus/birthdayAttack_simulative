@@ -16,6 +16,13 @@
             height: 100%;
             border: 1px black solid;
             box-sizing: border-box;
+            overflow: visible;
+            #lineGroup {
+                line {
+                    stroke-width: 0.1;
+                    stroke: lightgray;
+                }
+            }
             #probabilityLine {
                 fill: transparent;
                 stroke: blue;
